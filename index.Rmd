@@ -85,7 +85,7 @@ class: left, middle
 
 ## Signficance of the question:  
 
-- The debate of whether the minimum wage has employment effects will continue for many years to come, and still the empployment effects might be elusive at that point. But, continuing to ask this question might allow us to detect a range of increases in minimum wage that would actually yield in negative employment effects. This quest of finding the cutoff point beyond which negative employment effects could be observed would allow the policy makers and any labor market to create an environment for workers to enjoy the minimum standard of living to protect health and well being of employees. 
+- The debate of whether the minimum wage has employment effects will continue for many years to come, and still the empployment effects might be elusive at that point. But, continuing to ask this question might allow us to detect a range of increases in minimum wage that would actually yield in negative employment effects. This quest of finding the cutoff point beyond which negative employment effects could be observed would allow the policy makers and any labor market to create an environment for workers to enjoy the minimum standard of living, while also protecting their health and well being.
 
 ---
 class: top
