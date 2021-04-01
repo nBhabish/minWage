@@ -1,0 +1,105 @@
+---
+output:
+  xaringan::moon_reader:
+    nature:
+      ratio: 16:9
+      seal: false
+---
+class: middle, center, inverse
+
+```{r xaringan-tile-view, echo = FALSE}
+
+xaringanExtra::use_tile_view()
+```
+
+```{r xaringan-editable, echo = FALSE}
+xaringanExtra::use_editable()
+```
+
+<style type="text/css">
+.remark-slide-content {
+    font-size: 15px;
+    padding: 4em 8em 4em 8em;
+}
+</style>
+
+```{r xaringan-themer, include = FALSE}
+library(xaringanthemer)
+style_mono_accent(base_color = "#d00000",
+                  header_font_google = google_font("Saira Semi Condensed"), #Cinzel, Sacramento
+                  text_font_google   = google_font("Montserrat", "300", "300i"))
+
+```
+# The Elusive Employment Effect of the Minimum Wage
+
+.middle[
+Bhabishya Neupane | ECON 481 | April 2, 2021
+]
+---
+class: middle, left, inverse
+# Author
+
+<img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/person/image/2215/s465_Prof_Alan_Manning.jpg" width = "150px"/> 
+
+__Alan Manning__  
+  
+Professor at London School of Economics
+  
+Areas of Expertise
+
+
+---
+background-size: cover
+class: left, middle
+
+.top[
+# Research Question:
+]
+
+
+### Why is it difficult to find negative employment effects of minimum wage?  
+### How high can the minimum wage be raised to without observing significant effects on employment?
+
+
+---
+background-image: url()
+background-size: cover
+class: middle, inverse
+
+.center[
+## Why is the question significant
+]
+- Radhe radhe  
+- walalala    
+- hahhaa
+---
+background-image: url()
+background-size: cover
+class: left
+
+.left[
+# Graphs and stuff
+]
+
+---
+background-image: url()
+background-size: cover
+class: left, middle
+.left[
+#Conclusions:
+]
+- Radhe radhe  
+- walalala    
+- hahhaa
+---
+background-image: url()
+background-size: cover
+class: center, top
+# Two results in the paper that intrigues you
+---
+
+background-image: url(https://www.evidentlycochrane.net/wp-content/uploads/2019/04/white-tablets-question-mark.jpg)
+background-size: cover
+class: left, top, inverse
+
+# Critique/ Extension
